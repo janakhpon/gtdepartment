@@ -1,3 +1,2 @@
-# gtdepartment
-JavaEE + Design + REST API MYSQL
-#IMPORT TO ELCIPSE WEB APPLICATION PROJECT AND CREATE MYSQL DATABASE FOR IT
+## GT Department
+A Java EE based web app with HTML/CSS with MySQL CRUD features
